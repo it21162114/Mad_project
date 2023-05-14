@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VeggisMad</string>
+    <string name="App_Name">Veggis</string>
+    <string name="ADD_B">ADD DELIVERY DETAILS</string>
+    <string name="Enter_B">ADD DELIVER DETAILS</string>
+    <string name="App_Name1">Veggis</string>
+    <string name="Title">Deliver Details</string>
+    <string name="Inser_Name">Name</string>
+    <string name="Inser_Name_F">Enter Name</string>
+    <string name="Inser_Address">Address</string>
+    <string name="Insert_Address_F">Enter Address</string>
+    <string name="Inser_Email">Email</string>
+    <string name="Insert_Adress_F">Enter Address</string>
+    <string name="Inser_Contact">07xxxxxxx</string>
+    <string name="Inser_Contact1">Contact Number</string>
+    <string name="Insert_Contact_F">07x xx xx xxx</string>
+    <string name="Submit_Button">Submit</string>
+    <string name="read_title">Delivery Details List</string>
+    <string name="details_view">"See Your Deliver Details "</string>
+    <string name="delivery_view1">Recent Delivery Address</string>
+</resources>

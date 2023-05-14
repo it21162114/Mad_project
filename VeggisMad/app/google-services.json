@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452112116867",
+    "project_id": "mad-veggis",
+    "storage_bucket": "mad-veggis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452112116867:android:1a1a52f9ec2c50bc853fb6",
+        "android_client_info": {
+          "package_name": "com.example.veggismad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452112116867-458uhmbjia4p7k15rveiinhosiq5alsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiTODG2_uYXt6wR8L3zKzO0ZZ-e7xP1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452112116867-458uhmbjia4p7k15rveiinhosiq5alsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
